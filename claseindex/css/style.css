@@ -1,0 +1,19 @@
+h1 {
+    color: green;
+    font-size: 50px;
+}
+
+#componentes {
+    color: red;
+    font-size: 35px;
+}
+
+#productos {
+    color: brown;
+    font-size: 20px;
+}
+
+.dedicatoria {
+    color: pink;
+    font-size: 16px;
+}
